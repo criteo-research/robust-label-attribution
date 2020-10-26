@@ -3,6 +3,6 @@ Code of paper _Bidding Through the Lens of Attribution: Pick the Right Labels!_ 
 
 The code is split in two parts:
 
-1. The experiments run on a simulated dataset.
+1. The experiments run on a synthetic dataset.
 2. The experiments run on [Criteo Attribution Modeling for Bidding Dataset](https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/).
 
