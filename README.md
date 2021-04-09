@@ -1,5 +1,5 @@
-# Core attribution
-Code of paper _Bidding Through the Lens of Attribution: Pick the Right Labels!_ (Martin Bompaire, Benjamin Heymann, Antoine Désir, 2020)
+# Robust Label Attribution
+Code of paper _Robust label attribution for real-time bidding_ (Martin Bompaire, Antoine Désir, Benjamin Heymann, 2020)
 
 The code is split in two parts:
 
